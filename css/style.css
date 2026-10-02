@@ -1317,7 +1317,7 @@ figcaption {
     /* restaurant-info */
 
     .restaurant-story {
-	        max-width: 850px;
+	        max-width: 200px;
 	}
 
 	.container-img {
@@ -1325,6 +1325,6 @@ figcaption {
 	    }
 
 	    .container-img img {
-		        height: 380px;
-			    width: 320px;
+		        height: 200px;
+			    width: 200px;
 		    }
