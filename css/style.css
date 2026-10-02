@@ -1314,17 +1314,17 @@ figcaption {
     /* restaurant-info */
 
 
+    /* restaurant-info */
+
     .restaurant-story {
-        max-width: 800px;
-    }
+	        max-width: 850px;
+	}
 
-    .container-img {
-        gap: var(--space-xxl);
-    }
+	.container-img {
+		    gap: var(--space-xxl);
+	    }
 
-    .container-img img {
-        height: 360px;
-        width: 300px;
-    }
-
-}
+	    .container-img img {
+		        height: 380px;
+			    width: 320px;
+		    }
