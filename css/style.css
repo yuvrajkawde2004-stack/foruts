@@ -940,17 +940,13 @@ figcaption {
 
 /* Tablet */
 
-@media screen and (min-width:768px) {
-
-
+@media screen and (min-width: 768px) {
 
     /* typography */
-
 
     h1 {
         font-size: var(--h1-sizexl-tablet-p);
     }
-
 
     h2 {
         font-size: var(--h2-size-xl);
@@ -980,6 +976,9 @@ figcaption {
         font-size: var(--fs-lg);
     }
 
+    body {
+        background: red;
+    }
     /* flyer-wrappers */
 
     .flyer {
