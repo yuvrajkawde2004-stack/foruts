@@ -1317,6 +1317,7 @@ figcaption {
 
     .restaurant-story {
 	        max-width: 200px;
+                background: red !important;
 	}
 
 	.container-img {
